@@ -1,5 +1,5 @@
 {
-  "result": [
+  "result": 
     {
       "updated": 1588647374365,
       "cases": 3645539,
@@ -15,5 +15,5 @@
       "testsPerOneMillion": 5036.9,
       "affectedCountries": 214
     }
-  ]
+  
 }
